@@ -1,0 +1,32 @@
+#main {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  #img-div {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  #image {
+    /* display: flex;
+    margin-top: 0cap; */
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #img-caption {
+    font-style: italic;
+  }
+  
+  #tribute-link {
+    color: #0077cc;
+    text-decoration: none;
+  }
+  
+  #tribute-link:hover {
+    text-decoration: underline;
+  }
